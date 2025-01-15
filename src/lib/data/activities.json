@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Hiking",
+        "conditions": {
+            "temperature": [10, 25],
+            "weather": ["Sunny", "Partly cloudy"]
+        }
+    },
+    {
+        "name": "Skiing",
+        "conditions": {
+            "temperature": [-10, 5],
+            "weather": ["Snow", "Cloudy"]
+        }
+    },
+    {
+        "name": "Beach Day",
+        "conditions": {
+            "temperature": [20, 35],
+            "weather": ["Sunny", "Clear"]
+        }
+    },
+    {
+        "name": "Museum Visit",
+        "conditions": {
+            "temperature": [5, 30],
+            "weather": ["Rainy", "Cloudy", "Sunny"]
+        }
+    }
+]
