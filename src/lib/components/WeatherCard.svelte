@@ -2,7 +2,6 @@
 <script>
     export let weather;
   
-    console.log('weather is ', weather);
   </script>
   
   <div class="weather-card">
